@@ -1,0 +1,6 @@
+name: SpotlightPlugin
+version: '${project.version}'
+main: me.splt.devteam.spotlight.spotlightplugin.SpotlightPlugin
+api-version: 1.19
+prefix: Spotlight
+authors: [ mudkip989, Manny ]
